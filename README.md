@@ -1,3 +1,3 @@
-# Matlab_Useful_Functions
+# Matlab Useful Functions
 
 Repository consisting of MATLAB functions.
